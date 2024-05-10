@@ -9,10 +9,4 @@
   "marketplace": "getgems.io",
   "name": "JordanIsANoob",
   "image": "https://s.getgems.io/nft/c/660d4f985569e18577b05d71/207/image.png"
-  "buttons": [
-    {
-      "label": "Meow Here",
-      "uri": "https://getgems.io/meowing"
-    }
-  ]
 }
